@@ -83,6 +83,7 @@ nav:
     - Report Issues: https://github.com/terra-geo/agrihealth/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/crop.ipynb
     - API Reference:
           - agrihealth module: agrihealth.md
           - common module: common.md
