@@ -12,6 +12,11 @@
 -   Free software: MIT License
 -   Documentation: <https://terra-geo.github.io/agrihealth>
 
+
+``` python
+pip install agrihealth
+```
+
 ## **Key Features**  
 
 ### **Vegetation Index Computation**  
