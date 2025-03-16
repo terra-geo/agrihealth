@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/agrihealth.svg)](https://anaconda.org/conda-forge/agrihealth)
 
 
-**agrihealth is a Python package that allows fa**
+**agrihealth is a Python demo package for sustainable agriculture.**
 
 
 -   Free software: MIT License
