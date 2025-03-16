@@ -4,10 +4,7 @@
 
 **agrihealth** is a demo Python package designed for **farmers, foresters, and environmental researchers** to analyze **vegetation health** and **soil moisture** using satellite imagery. The package enables **offline processing**, making it ideal for remote areas with limited internet access.  
 
-### How to install agrihealth 
-```python
-pip install agrihealth
-```
+
 
 [![image](https://img.shields.io/pypi/v/agrihealth.svg)](https://pypi.python.org/pypi/agrihealth)
 
