@@ -4,7 +4,7 @@ version = "0.0.1"
 dynamic = [
     "dependencies",
 ]
-description = "agrihealth is a Python package that allows fa"
+description = "agrihealth is a Python demo package for sustainable agriculture."
 readme = "README.md"
 requires-python = ">=3.8"
 keywords = [
