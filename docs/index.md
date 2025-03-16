@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/pypi/v/agrihealth.svg)](https://pypi.python.org/pypi/agrihealth)
 
 
-**agrihealth is a Python package that allows fa**
+**agrihealth is a Python demo package for sustainable agriculture.**
 
 
 -   Free software: MIT License
