@@ -1,4 +1,0 @@
- 
-# agrihealth module
-
-::: agrihealth.agrihealth
